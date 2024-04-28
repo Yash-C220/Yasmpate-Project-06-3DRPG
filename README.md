@@ -1,6 +1,16 @@
 # Project-06
 
 # Features added
+Animated 3d model, with camera movement and one Mixamo anim (Yes)
+Terrain and Objects the player collides with (Yes)
+PBR texture (No)
+Non player agents/models (Yes) 
+AI (No)
+Dialogue (No)
+Handheld weapon on armature (Yes)
+Interaction (No)
+Scoring system (No)
+Clear Obj (No)
 
 # References to resources used in the project
 
