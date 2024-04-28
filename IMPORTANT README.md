@@ -9,7 +9,7 @@ AI (No)
 Dialogue (No)
 Handheld weapon on armature (Yes)
 Interaction (No)
-Scoring system (No)
+Scoring system (No) 
 Clear Obj (No)
 
 # References to resources used in the project
